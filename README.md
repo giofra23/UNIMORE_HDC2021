@@ -11,6 +11,6 @@ S.Bonettini, R.Zanella, L. Zanni 2009, A scaled gradient projection method for c
 
 Instructions: pakages and install MatLab 2021
 
-Instructions for use: main(inputFolder,outputFolder,NoiseLevel) At the end in outupFolder you will find image in .png format and 3 channels ready for OCR.
+Instructions for use: main(inputFolder,outputFolder,categoryNbr) At the end in outupFolder you will find image in .png format and 3 channels ready for OCR.
 
-Examples main('./inputFolder/','./outputFolder/',3)
+Examples main('./inputFolder/','./outputFolder/',2)
